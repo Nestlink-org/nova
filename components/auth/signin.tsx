@@ -20,7 +20,7 @@ export function LoginForm({
         <a href="#" className="flex flex-col items-center gap-2 font-medium">
           <div className="flex flex-col justify-center items-center">
             <Image
-              src={"assets/images/nova.png"}
+              src={"/images/nova.png"}
               width={32}
               height={32}
               alt="Logo"
@@ -45,7 +45,7 @@ export function LoginForm({
             </div>
             <div className="grid gap-3">
               <Label htmlFor="email">Check your email</Label>
-              <InputOTP />
+              {/* <InputOTP /> */}
             </div>
             <div className="grid gap-3">
               <div className="flex items-center">

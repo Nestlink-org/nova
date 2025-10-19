@@ -9,7 +9,7 @@ export default function Home({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const images = ["/images/dash1.png", "/images/dash2.png"];
+  const images = ["/images/dash-nova.png", "/images/dash2-nova.png"];
 
   return (
     <div className="min-h-screen min-w-screen relative flex justify-center items-center">
@@ -30,7 +30,7 @@ export default function Home({
             
                transition-all duration-700 ease-in-out hover:scale-105 hover:drop-shadow-[0_0_25px_rgba(147,51,234,0.4)]"
             >
-              PMS<span>~</span>DNLS
+              NL<span>~</span>NOVA
             </h1>
 
             {/* Animated Underline */}
