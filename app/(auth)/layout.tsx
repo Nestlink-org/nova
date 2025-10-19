@@ -12,7 +12,10 @@ export default function Home({
   const images = ["/images/dash-nova.png", "/images/dash2-nova.png"];
 
   return (
-    <div className="min-h-screen min-w-screen relative flex justify-center items-center">
+    <div
+      className="min-h-screen min-w-screen relative flex justify-center items-center 
+                bg-gradient-to-br from-blue-50 to-cyan-100"
+    >
       <div className="z-20 fixed top-0 container mx-auto flex justify-between items-center py-3">
         <div className="flex gap-2 items-center ">
           <Image

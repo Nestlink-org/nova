@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Nestlink Nova - AI-Powered Multimedia Studio
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+**A seamless desktop application for AI-driven multimedia creation and editing**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Tauri](https://img.shields.io/badge/Tauri-2.0-FFC131?style=for-the-badge&logo=tauri)](https://tauri.app/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-orange?style=for-the-badge&logo=openai)](https://azure.com/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+_Create, edit, and transform multimedia content with the power of AI_
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+</div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features
 
-## Learn More
+### 🎬 Multi-Format Editing
 
-To learn more about Next.js, take a look at the following resources:
+- **🎥 Video Editor**: Timeline-based editing with transitions and effects
+- **🖼️ Image Editor**: Layer-based design with AI-powered enhancements
+- **🎵 Audio Studio**: Voice modulation, TTS, and professional audio effects
+- **🔄 Real-time Preview**: Instant preview across all editing modules
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🤖 AI Microservices Integration
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **🧠 Multi-Model Orchestration**: Seamlessly switch between AI models (Whisper, GPT, Sora, etc.)
+- **🎨 AI Asset Generation**: Create images, logos, and animations from prompts
+- **🗣️ Voice Transformation**: Modify voice characteristics using AI
+- **📝 Smart Content Creation**: AI-assisted scripting and composition
 
-## Deploy on Vercel
+### 🖥️ Desktop Experience
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **⚡ Native Performance**: Built with Tauri for desktop-grade performance
+- **📁 Native File System**: OS-native dialogs and file operations
+- **🔌 System Integration**: Tray icons, background processing, and more
+- **🌙 Dark/Light Theme**: Full theme support with your existing ThemeProvider
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🛠️ Professional Workflow
+
+- **📑 Project Management**: Save, version, and organize your creations
+- **🎚️ Advanced Timeline**: Multi-track editing with keyframe animation
+- **🔄 Undo/Redo History**: Comprehensive history management
+- **📤 Multi-format Export**: Export in various formats and resolutions
+
+## 🏗️ Architecture
